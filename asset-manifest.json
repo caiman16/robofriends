@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//caiman16.github.io/robofriends/static/css/main.11162c46.chunk.css",
+    "main.js": "//caiman16.github.io/robofriends/static/js/main.f40f7a1e.chunk.js",
+    "main.js.map": "//caiman16.github.io/robofriends/static/js/main.f40f7a1e.chunk.js.map",
+    "runtime-main.js": "//caiman16.github.io/robofriends/static/js/runtime-main.0fc1f73b.js",
+    "runtime-main.js.map": "//caiman16.github.io/robofriends/static/js/runtime-main.0fc1f73b.js.map",
+    "static/css/2.6d7c7915.chunk.css": "//caiman16.github.io/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5f002fca.chunk.js": "//caiman16.github.io/robofriends/static/js/2.5f002fca.chunk.js",
+    "static/js/2.5f002fca.chunk.js.map": "//caiman16.github.io/robofriends/static/js/2.5f002fca.chunk.js.map",
+    "static/js/3.fd12fa95.chunk.js": "//caiman16.github.io/robofriends/static/js/3.fd12fa95.chunk.js",
+    "static/js/3.fd12fa95.chunk.js.map": "//caiman16.github.io/robofriends/static/js/3.fd12fa95.chunk.js.map",
+    "index.html": "//caiman16.github.io/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "//caiman16.github.io/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.11162c46.chunk.css.map": "//caiman16.github.io/robofriends/static/css/main.11162c46.chunk.css.map",
+    "static/js/2.5f002fca.chunk.js.LICENSE.txt": "//caiman16.github.io/robofriends/static/js/2.5f002fca.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//caiman16.github.io/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc1f73b.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.5f002fca.chunk.js",
+    "static/css/main.11162c46.chunk.css",
+    "static/js/main.f40f7a1e.chunk.js"
+  ]
+}
